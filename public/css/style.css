@@ -8,6 +8,9 @@
     --cmu-blue: #224477;
     --cmu-green: #008855;
     --cmu-dark-green: #224433;
+	--osu-orange: #d83f09;
+	--osu-black: #000000;
+	--osu-white: #ffffff;
 }
 
 .header { background-color: var(--cmu-red);}
