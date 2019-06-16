@@ -37,7 +37,7 @@ Oregon State University at Corvallis, Oregon.
         <td>Workshop Acceptance Notification</td>
       </tr>
       <tr >
-        <td colspan="2">April 23, 2018</td>
+        <td colspan="2">TBD</td>
         <td>Paper Acceptance Notification</td>
       </tr>
       <tr>
