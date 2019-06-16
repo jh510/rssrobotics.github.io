@@ -2,7 +2,6 @@
 layout: default
 title: Home
 ---
-
 <h1 class="page-title">{{ site.title }}<br>
 July 12-17, 2020</h1>
 
